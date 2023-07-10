@@ -1,0 +1,11 @@
+*{
+    margin:0px;
+    padding:0px;
+}
+.nav-container{
+    display:flex;
+    background-color: gray;
+    padding: 20px;
+    margin-top: 20px;
+    justify-content: space-around;
+}
