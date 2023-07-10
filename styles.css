@@ -9,3 +9,6 @@
     margin-top: 20px;
     justify-content: space-around;
 }
+.menus{
+    display: flex;
+}
